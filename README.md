@@ -4,8 +4,15 @@ ShopEase is a modern **Flutter-based e-commerce application** designed with a cl
 
 ## 🎥 Project Demo
 
-▶️ **Watch the ShopEase Demo Video**
-https://www.youtube.com/shorts/EOTL-2y70cI
+
+
+https://github.com/user-attachments/assets/380daa95-c6f0-411f-a2d4-267a10160d26
+
+
+
+
+
+
 
 
 
